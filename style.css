@@ -181,7 +181,7 @@ main {
   }
 
   .navbar-nav {
-    flex-direction: row;
+    flex-direction: column;
   }
 
   .nav-link {
