@@ -185,7 +185,7 @@ main {
   }
 
   .nav-link {
-    justify-content: center;
+    justify-content:space-evenly;
   }
 
   main {
